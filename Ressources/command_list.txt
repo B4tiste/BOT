@@ -1,0 +1,12 @@
+=== | Utilitaires | ===
+-help
+-test
+-shutdown
+
+=== | Jeux | ===
+-dcdl [Lettres]
+
+=== | Features | ===
+-bourse [Nom de l'action]
+-covid
+-meteo [nom de la ville]
